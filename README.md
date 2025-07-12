@@ -5,7 +5,7 @@ The user inputs a movie name and the system suggests 10 movies based on the simi
 
 # Dataset
 
-File: `movies.csv`  
+File: [`movies.csv`](movies.csv)   
 The file contains metadata of popular movies which includes genres, cast, director, keywords, etc.
 Dataset was taken from Kaggle.
 
